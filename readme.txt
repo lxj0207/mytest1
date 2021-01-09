@@ -1,2 +1,2 @@
-printf("Hello World");
-printf("Hello Lijie");
+printf("Hello Git");
+printf("Hello Lijie, learning Git");
